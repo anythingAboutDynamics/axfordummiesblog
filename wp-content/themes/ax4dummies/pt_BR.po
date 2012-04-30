@@ -1,0 +1,301 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Edvandro <falecom@edvandro.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in function
+#: comments.php:25
+msgid "% Coment&aacute;rios"
+msgstr "% Comments"
+
+#. Text in function
+#: archive.php:44
+#: index.php:38
+#: author.php:38
+msgid "&larr; Posts antigos"
+msgstr "&larr; Old posts"
+
+#. Text in function
+#: comments.php:34
+msgid "&nbsp;&nbsp;<strong>Editar coment&aacute;rio</strong>"
+msgstr "&nbsp;&nbsp;<strong>Edit comment</strong>"
+
+#. Text in echo
+#: comments.php:83
+msgid "(requerido)"
+msgstr "(required)"
+
+#. Text in echo
+#: comments.php:88
+msgid "(requerido, n&atilde;o exibido)"
+msgstr "(required, not displayed)"
+
+#. Text in function
+#: comments.php:25
+msgid "1 coment&aacute;rio"
+msgstr "1 comment"
+
+#. Text in function
+#: comments.php:62
+msgid "<abbr title=\"Really Simple Syndication\">RSS</abbr> feed para coment&aacute;rios nesse post"
+msgstr "<abbr title=\"Really Simple Syndication\">RSS</abbr> comments fedd on this post"
+
+#. Text in function
+#: archive.php:34
+#: index.php:28
+#: author.php:28
+msgid "<span><strong>%</strong> Coment&aacute;rios</span>"
+msgstr "<span><strong>%</strong> Comments</span>"
+
+#. Text in function
+#: archive.php:34
+#: index.php:28
+#: author.php:28
+msgid "<span><strong>0</strong> Coment&aacute;rios</span>"
+msgstr "<span><strong>0</strong> Comments</span>"
+
+#. Text in function
+#: archive.php:34
+#: index.php:28
+#: author.php:28
+msgid "<span><strong>1</strong> Coment&aacute;rio</span>"
+msgstr "<span><strong>1</strong> Comments</span>"
+
+#. Text in echo
+#: header.php:17
+#: header.php:18
+#: sidebar.php:11
+msgid "Arquivos"
+msgstr "Archives"
+
+#. Text in echo
+#: archive.php:6
+msgid "Arquivos da categoria"
+msgstr "Category archives"
+
+#. Text in echo
+#: archive.php:8
+msgid "Arquivos da tag"
+msgstr "Tag archives"
+
+#. Text in echo
+#: header.php:19
+msgid "Arquivos de tag"
+msgstr "Tag archives"
+
+#. Text in echo
+#: archive.php:16
+msgid "Arquivos do Blog"
+msgstr "Blog archives"
+
+#. Text in echo
+#: archive.php:14
+msgid "Arquivos do ano de"
+msgstr "Archives on year"
+
+#. Text in echo
+#: header.php:14
+#: author.php:12
+msgid "Arquivos do autor"
+msgstr "Author archives"
+
+#. Text in echo
+#: archive.php:10
+msgid "Arquivos do dia"
+msgstr "Daily archives"
+
+#. Text in echo
+#: archive.php:12
+msgid "Arquivos do m&ecirc;s"
+msgstr "Month archives"
+
+#. Text in echo
+#: archives.php:15
+msgid "Arquivos por categoria"
+msgstr "Category archives"
+
+#. Text in echo
+#: archives.php:17
+msgid "Arquivos por m&ecirc;s"
+msgstr "Archives by month"
+
+#. Text in echo
+#: single.php:26
+msgid "Autor:"
+msgstr "Author"
+
+#. Text in echo
+#: sidebar.php:36
+msgid "Calend&aacute;rio"
+msgstr "Calendar"
+
+#. Text in echo
+#: sidebar.php:5
+msgid "Categorias"
+msgstr "Categories"
+
+#. Text in echo
+#: comments.php:54
+msgid "Coment&aacute;rios encerrados."
+msgstr "Comments are closed"
+
+#. Text in echo
+#: footer.php:12
+msgid "Coment&aacute;rios recentes"
+msgstr "Recent comments"
+
+#. Text in function
+#: index.php:23
+#: single.php:21
+msgid "Continue lendo &rarr;"
+msgstr "Reading &rarr;"
+
+#. Text in echo
+#: comments.php:70
+msgid "Deixe seu coment&aacute;rio"
+msgstr "Write a comment"
+
+#. Text in echo
+#: page.php:15
+msgid "Desculpe, mas voc&ecirc; est&aacute; procurando por algo que n&atilde;o est&aacute; aqui."
+msgstr "Sorry, but you are looking for a inexistent content."
+
+#. Text in echo
+#: index.php:45
+msgid "Descupe, mas voc&ecirc; est&aacute; procurando por algo que n&atilde;o est&aacute; aqui."
+msgstr "Sorry, but you are looking for a inexistent content."
+
+#. Text in echo
+#: comments.php:102
+msgid "Envie seu coment&atilde;rio"
+msgstr "Send your comment"
+
+#. Text in echo
+#: single.php:17
+msgid "Escrito em"
+msgstr "Wrote in"
+
+#. Text in echo
+#: archive.php:28
+#: index.php:18
+#: author.php:22
+msgid "Escrito por"
+msgstr "Wrote by"
+
+#. Text in echo
+#: single.php:34
+msgid "Leia tamb&eacute;m"
+msgstr "Related posts"
+
+#. Text in echo
+#: archive.php:23
+#: index.php:13
+#: author.php:17
+msgid "Link permanente para"
+msgstr "Permanent link to"
+
+#. Text in echo
+#: comments.php:78
+msgid "Logado como"
+msgstr "Logged as"
+
+#. Text in echo
+#: comments.php:78
+msgid "Logout dessa conta"
+msgstr "Logout"
+
+#. Text in echo
+#: footer.php:16
+msgid "Mais comentados"
+msgstr "More comments"
+
+#. Text in echo
+#: sidebar.php:24
+msgid "Meta"
+msgstr "Meta"
+
+#. Text in echo
+#: page.php:14
+msgid "N&atilde;o encontrado."
+msgstr "Not found"
+
+#. Text in echo
+#: single.php:45
+msgid "O que voc&ecirc; procura n&atilde;o est&aacute; aqui..."
+msgstr "Sorry, but you are looking for a inexistent content."
+
+#. Text in echo
+#: header.php:53
+msgid "Pesquisar"
+msgstr "Search"
+
+#. Text in echo
+#: footer.php:8
+msgid "Posts recentes"
+msgstr "Recent posts"
+
+#. Text in function
+#: archive.php:45
+#: index.php:39
+#: author.php:39
+msgid "Posts recentes &rarr;"
+msgstr "Recents posts &rarr;"
+
+#. Text in echo
+#: sidebar.php:17
+msgid "Refer&ecirc;ncias"
+msgstr "References"
+
+#. Text in echo
+#: header.php:13
+msgid "Resultados de pesquisa"
+msgstr "Search results"
+
+#. Text in function
+#: comments.php:25
+msgid "Sem coment&aacute;rios"
+msgstr "No comments"
+
+#. Text in echo
+#: comments.php:40
+msgid "Seu coment&aacute;rio est&aacute; em modera&ccedil;&atilde;o."
+msgstr "Your comment is awaiting for moderation"
+
+#. Text in echo
+#: comments.php:64
+msgid "TrackBack <abbr title=\"Uniform Resource Identifier\">URI</abbr>"
+msgstr "TrackBack <abbr title=\"Uniform Resource Identifier\">URI</abbr>"
+
+#. Text in echo
+#: comments.php:73
+msgid "Voc&ecirc; deve estar"
+msgstr "You must be"
+
+#. Text in echo
+#: single.php:31
+msgid "artigos escritos."
+msgstr "wroteds posts"
+
+#. Text in echo
+#: archive.php:28
+#: index.php:18
+#: author.php:22
+msgid "em"
+msgstr "in"
+
+#. Text in echo
+#: comments.php:73
+msgid "para escrever um coment&aacute;rio."
+msgstr "to write a comment."
+
+#. Text in echo
+#: single.php:30
+msgid "tem"
+msgstr "have"
+
